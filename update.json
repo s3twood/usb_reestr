@@ -1,5 +1,5 @@
 {
-  "version": "5.64.1",
+  "version": "5.65.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Добавлена система автоматического обновления."
+  "message": "Добавлены сообщения о версии и статусе обновления."
 }
