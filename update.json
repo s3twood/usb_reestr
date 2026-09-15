@@ -1,5 +1,5 @@
 {
-  "version": "5.66.0",
+  "version": "5.67.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Добавлена информация об авторе в интерфейсе."
+  "message": "Исправлено автообновление LuaJIT .luac и GitHub-ссылок."
 }
