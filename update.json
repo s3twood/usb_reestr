@@ -1,5 +1,5 @@
 {
-  "version": "5.67.0",
+  "version": "5.68.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Исправлено автообновление LuaJIT .luac и GitHub-ссылок."
+  "message": "Добавлено досье игрока с полной историей нарушений."
 }
