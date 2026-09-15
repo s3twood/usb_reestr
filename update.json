@@ -1,5 +1,5 @@
 {
-  "version": "5.68.0",
+  "version": "5.70.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Добавлено досье игрока с полной историей нарушений."
+  "message": "Добавлена аналитика."
 }
