@@ -1,5 +1,5 @@
 {
-  "version": "5.99.0",
+  "version": "6.08.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Команда /dk."
+  "message": "Исправлена остановка при открытии /vmenu, добавлены квадраты на карте"
 }
