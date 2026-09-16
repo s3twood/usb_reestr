@@ -1,5 +1,5 @@
 {
-  "version": "5.91.0",
+  "version": "5.92.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Добавлено перетаскивание карты мышью без перемещения окна."
+  "message": "Добавлена фоновая автозагрузка карты."
 }
