@@ -1,5 +1,5 @@
 {
-  "version": "5.81.0",
+  "version": "5.91.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Обновлёна общея карта."
+  "message": "Добавлено перетаскивание карты мышью без перемещения окна."
 }
