@@ -1,5 +1,5 @@
 {
-  "version": "5.93.0",
+  "version": "5.94.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Исправлена автозагрузка карты: файл применяется только после полного завершения скачивания."
+  "message": "Добавлена поддержка страниц ImgBB во встроенном просмотрщике."
 }
