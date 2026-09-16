@@ -1,5 +1,5 @@
 {
-  "version": "5.92.0",
+  "version": "5.93.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Добавлена фоновая автозагрузка карты."
+  "message": "Исправлена автозагрузка карты: файл применяется только после полного завершения скачивания."
 }
