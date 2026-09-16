@@ -1,5 +1,5 @@
 {
-  "version": "5.94.0",
+  "version": "5.99.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Добавлена поддержка страниц ImgBB во встроенном просмотрщике."
+  "message": "Команда /dk."
 }
