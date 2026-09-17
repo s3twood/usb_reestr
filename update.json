@@ -1,5 +1,5 @@
 {
-  "version": "6.20.0",
+  "version": "6.23.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Добавлен чекер взводов в /vmenu"
+  "message": "Добавлен график УСБ"
 }
