@@ -1,5 +1,5 @@
 {
-  "version": "6.23.0",
+  "version": "6.33.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Добавлен график УСБ"
+  "message": "Добавлена статистика по статьям наказаний"
 }
