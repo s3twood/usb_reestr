@@ -1,5 +1,5 @@
 {
-  "version": "6.37.0",
+  "version": "6.40.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Переключатель показа своей позиции на общей карте стал сессионным"
+  "message": "Добавлена специальная обработка /dk 38 и /dk 99"
 }
