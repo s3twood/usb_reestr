@@ -1,5 +1,5 @@
 {
-  "version": "6.45.0",
+  "version": "6.47.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Игроки, находящиеся в интерьере, больше не отображаются маркерами на внешней карте."
+  "message": "Добавлена live позиция на карте"
 }
