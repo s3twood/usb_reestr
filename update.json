@@ -1,5 +1,5 @@
 {
-  "version": "6.47.0",
+  "version": "6.48.0",
   "url": "https://raw.githubusercontent.com/s3twood/usb_reestr/main/reestr.luac",
-  "message": "Добавлена live позиция на карте"
+  "message": "Функционал карты удалён"
 }
